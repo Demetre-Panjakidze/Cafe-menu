@@ -1,2 +1,2 @@
 # Cafe-menu
-This is a simple design of a menu in a café.
+This is a design of a menu in a café.
